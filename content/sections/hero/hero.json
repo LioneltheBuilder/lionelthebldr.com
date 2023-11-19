@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hello",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Are you looking for innovative web solutions",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "I specialize in full-stack web development ",
+    "highlight": "crafting seamless digital experiences and efficient software solutions!",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Welcome to my website! Dive into the world of tech with me, and let's explore how we can solve complex problems together.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false

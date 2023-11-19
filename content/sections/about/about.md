@@ -1,14 +1,30 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/aura.png"
+imageAlt: "Cool image of Lionel the Builder"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+# Hello and welcome!
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I'm **Lionel The Builder**, a software engineer specializing in full-stack web development. Currently, I'm contributing to the dynamic team at Washington's Hammer, focused on developing innovative web solutions.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+## My Expertise
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+I am dedicated to crafting seamless, user-friendly applications and websites. Passionate about every layer of development, I ensure a comprehensive approach to each project.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+### Technical Proficiencies
+
+- **Languages:** Proficient in JavaScript, Python, and TypeScript, leveraging these to build robust applications.
+- **Front-End Development:** Skilled in React and Next.js, I create interactive and modern user interfaces focusing on responsive design and intuitive experiences.
+- **Back-End Development:** Experienced in Node.js and Express, I develop reliable systems for data processing and API management.
+- **Database Management:** Proficient in both SQL and NoSQL databases, including MongoDB and PostgreSQL.
+- **Additional Tools:** Well-versed in version control with Git and deploying applications via platforms like Vercel and Heroku.
+
+As a web developer, I aim to transform complex problems into elegant digital solutions. Constantly updating my skills to keep pace with the tech landscape, I thrive on challenges.
+
+## Let's Collaborate
+
+Looking for a collaborator on a web development project or need someone to bring your digital ideas to life? I'm here to help. 
+
+**Connect with me and let's create something impactful.**
+
+Thank you for visiting my website!
