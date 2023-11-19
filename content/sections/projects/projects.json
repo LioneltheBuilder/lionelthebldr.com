@@ -2,47 +2,77 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "The Digital Builders",
+      "title": "Marketing",
+      "description": "Digital Builders: Powering your business growth through expert marketing strategies, social media management, compelling blog posts, and targeted audience reach.",
+      "tags": ["Web Development", "Social Media Growth"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/Digital.png",
+        "alt": "Marketing Agency",
+        "linkTo": "https://digitalbuilders757.com/"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
+          "type": "external",
+          "url": "https://digitalbuilders757.com/"
+        }
+      ]
+    }, {
+      "visible": true,
+      "category": "Just Another Carpenter",
+      "title": "Just Another Carpenter",
+      "description": "We are Just Another Carpenter – a dedicated team of builders, fixers, and creators.",
+      "tags": ["Web Development", "Social Media Growth"],
+      "image": {
+        "src": "../../images/just.webp",
+        "alt": "Construction Company",
+        "linkTo": "https://justanothercarpenter.com/"
+      },
+      "links": [
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://justanothercarpenter.com/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Family Reunite Network",
+      "title": "Family Reunite Network!",
+      "description": "We love families, it is our mission to help keep them together!.",
+      "tags": ["Immigration Laws", "Family Network"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/FRN.png",
+        "alt": "Marketing Agency",
+        "linkTo": "https://familyreunitenetwork.com/"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://familyreunitenetwork.com/"
+        }
+      ]
+    },{
+      "visible": true,
+      "category": "Join our Meet Up!",
+      "title": "The Digital Builders 757!",
+      "description": "I founded this group with the aim of creating a supportive community where anyone, regardless of their background or prior experience, can learn the art of coding. Together, we'll navigate the exciting realms of web development, unraveling the intricacies of HTML, CSS, and JavaScript",
+      "tags": ["Tech Meet Up", "Web Development"],
+      "image": {
+        "src": "../../images/tech.jpeg",
+        "alt": "Digital Builders 757"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.meetup.com/digital-builders-757/"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Visit my Github",
+    "url": "https://github.com/LioneltheBuilder"
   }
 }

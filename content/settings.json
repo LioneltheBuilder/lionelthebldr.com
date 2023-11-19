@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://www.lionelthebldr.com",
     "title": "Lionel The Builder",
     "titleTemplate": "%s · Lionel The Builder",
     "description": "The official website of Lionel The Builder",
@@ -22,7 +22,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Projects", "url": "/#Projects" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
