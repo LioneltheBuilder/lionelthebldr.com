@@ -2,10 +2,10 @@
   "projects": [
     {
       "visible": true,
-      "category": "The Digital Builders",
-      "title": "Marketing",
-      "description": "Digital Builders: Powering your business growth through expert marketing strategies, social media management, compelling blog posts, and targeted audience reach.",
-      "tags": ["Web Development", "Social Media Growth"],
+      "category": "Web Development Example",
+      "title": "The Digital Builders",
+      "description": "Digital Builders: Boosting your business with eye-catching designs, easy-to-use websites and apps, and smart online marketing to help you stand out and grow in the digital world.",
+      "tags": ["Web Development", "Mobile Development", "Social Media Growth", "Graphic Design"],
       "image": {
         "src": "../../images/Digital.png",
         "alt": "Marketing Agency",
@@ -19,7 +19,7 @@
       ]
     }, {
       "visible": true,
-      "category": "Just Another Carpenter",
+      "category": "Web Development Example",
       "title": "Just Another Carpenter",
       "description": "We are Just Another Carpenter – a dedicated team of builders, fixers, and creators.",
       "tags": ["Web Development", "Social Media Growth"],
@@ -35,6 +35,25 @@
         }
       ]
     },
+    {
+      "visible": true,
+      "category": "Web Development Example",
+      "title": "Eileen Brewer's Website",
+      "description": "Eileen Brewer is a global catalyst in STEM education, entrepreneurship.",
+      "tags": ["Web Development"],
+      "image": {
+        "src": "../../images/eileen.png",
+        "alt": "Marketing Agency",
+        "linkTo": "https://www.eileenbrewer.com/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.eileenbrewer.com/"
+        }
+      ]
+    },
+    
     {
       "visible": true,
       "category": "Family Reunite Network",
