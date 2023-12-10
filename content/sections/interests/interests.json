@@ -1,21 +1,21 @@
 {
   "interests": [
     {
-      "label": "Web Development",
+      "label": "Full-Stack Development",
       "image": {
         "src": "../../images/joystick.png",
         "alt": ""
       }
     },
     {
-      "label": "Project Management",
+      "label": "Node.js",
       "image": {
         "src": "../../images/notebook.png",
         "alt": ""
       }
     },
     {
-      "label": "APP Development",
+      "label": "Next.js",
       "image": {
         "src": "../../images/gem-stone.png",
         "alt": ""
@@ -23,7 +23,7 @@
     },
    
     {
-      "label": "Next.js",
+      "label": "Agile",
       "image": {
         "src": "../../images/medium.png",
         "alt": ""
@@ -31,7 +31,7 @@
     },
     
     {
-      "label": "HTML/JAVASCRIPT",
+      "label": "Javascript/Typescript",
       "image": {
         "src": "../../images/mobile-phone.png",
         "alt": ""
@@ -52,7 +52,7 @@
       }
     },
     {
-      "label": "Fast Development Speed",
+      "label": "Speed",
       "image": {
         "src": "../../images/high-voltage.png",
         "alt": ""
