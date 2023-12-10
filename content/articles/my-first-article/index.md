@@ -1,6 +1,6 @@
 ---
-title: "My Journey: From Freelance Photography to Software Engineering"
-description: "My Journey: From Freelance Photography to Software Engineering"
+title: "My Journey From Freelance Photography to Software Engineering"
+description: "My Journey From Freelance Photography to Software Engineering"
 date: "2023-11-19"
 banner:
   src: "../../images/aura.png"

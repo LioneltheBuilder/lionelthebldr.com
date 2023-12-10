@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Are you looking for innovative web solutions",
+  "title": "Hey, I'm Lionel The Builder!",
   "subtitle": {
-    "prefix": "I specialize in full-stack web development ",
-    "highlight": "crafting seamless digital experiences and efficient software solutions!",
+    "prefix": "Welcome to my digital space! ",
+    "highlight": "I'm a Software Engineer specializing in Full Stack Web Development",
     "suffix": "."
   },
-  "description": "Welcome to my website! Dive into the world of tech with me, and let's explore how we can solve complex problems together.",
+  "description": "Dive into the world of tech with me, and let's explore how we can solve complex problems together.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false

@@ -15,12 +15,13 @@
       }
     },
     {
-      "label": "CSS",
+      "label": "APP Development",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/gem-stone.png",
         "alt": ""
       }
     },
+   
     {
       "label": "Next.js",
       "image": {
@@ -28,13 +29,7 @@
         "alt": ""
       }
     },
-    {
-      "label": "APP Development",
-      "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
-    },
+    
     {
       "label": "HTML/JAVASCRIPT",
       "image": {
@@ -46,6 +41,13 @@
       "label": "React.js/Gatsby.js",
       "image": {
         "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "../../images/nail-polish.png",
         "alt": ""
       }
     },
