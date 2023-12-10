@@ -1,5 +1,5 @@
 {
-  "intro": "Hello",
+  "intro": "Hey there",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,7 +8,7 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Hey, I'm Lionel The Builder!",
+  "title": "welcome to the digital workshop of Lionel the Builder!",
   "subtitle": {
     "prefix": "Welcome to my digital space! ",
     "highlight": "I'm a Software Engineer specializing in Full Stack Web Development",
