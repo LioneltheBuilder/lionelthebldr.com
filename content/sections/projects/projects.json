@@ -2,22 +2,23 @@
   "projects": [
     {
       "visible": true,
-      "category": "Web Development Example",
-      "title": "The Digital Builders",
-      "description": "Digital Builders: Boosting your business with eye-catching designs, easy-to-use websites and apps, and smart online marketing to help you stand out and grow in the digital world.",
-      "tags": ["Web Development", "Mobile Development", "Social Media Growth", "Graphic Design"],
+      "category": "Web Application",
+      "title": "Pallet Management System",
+      "description": "A modern, intuitive web-based application for efficient management of pallet spaces in warehouses or logistics centers. Utilizes Firebase Realtime Database for dynamic, real-time data handling.",
+      "tags": ["Web Development", "Firebase", "Real-Time Database", "Inventory Management"],
       "image": {
-        "src": "../../images/Digital.png",
-        "alt": "Marketing Agency",
-        "linkTo": "https://digitalbuilders757.com/"
+        "src": "../../images/Cavy.png",
+        "alt": "Pallet Management System Interface",
+        "linkTo": "https://pallet-dfcd8.web.app/"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://digitalbuilders757.com/"
+          "url": "https://pallet-dfcd8.web.app/"
         }
       ]
-    }, {
+    }
+    , {
       "visible": true,
       "category": "Web Development Example",
       "title": "Just Another Carpenter",
