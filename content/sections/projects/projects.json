@@ -71,24 +71,6 @@
           "url": "https://www.eileenbrewer.com/"
         }
       ]
-    },
-    
-    {
-      "visible": true,
-      "category": "Join our Meet Up!",
-      "title": "The Digital Builders 757!",
-      "description": "I founded this group with the aim of creating a supportive community where anyone, regardless of their background or prior experience, can learn the art of coding. Together, we'll navigate the exciting realms of web development, unraveling the intricacies of HTML, CSS, and JavaScript",
-      "tags": ["Tech Meet Up", "Web Development"],
-      "image": {
-        "src": "../../images/tech.jpeg",
-        "alt": "Digital Builders 757"
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://www.meetup.com/digital-builders-757/"
-        }
-      ]
     }
   ],
   "button": {
