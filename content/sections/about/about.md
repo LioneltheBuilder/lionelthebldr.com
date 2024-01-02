@@ -23,7 +23,7 @@ As a web developer, I aim to transform complex problems into elegant digital sol
 
 ## Let's Collaborate
 
-Welcome to my digital world, where your visionary ideas meet digital craftsmanship. If you've got an idea brewing and need a digital touch to make it real, I'm your guy. Let's connect and transform your vision into a digital reality that's both functional and captivating.
+Welcome to my digital world, where your visionary ideas meet digital craftsmanship. If you've got an idea brewing and need a digital touch to make it real, I'm your guy. Let's connect and transform your vision into a reality that's both functional and captivating.
 
 Got an idea that needs crafting? Reach out, and let's make it happen! 🚀💻
 

@@ -2,6 +2,24 @@
   "projects": [
     {
       "visible": true,
+      "category": "Online Coding Community",
+      "title": "The Digital Builders 757!",
+      "description": "As the founder of The Digital Builders 757, I spearhead an ambitious initiative aimed at democratizing technology education and fostering a vibrant coding community in the Hampton Roads area. Originating from my personal journey of self-taught coding that led me from truck driving to a successful career in software engineering, The Digital Builders 757 is a testament to the transformative power of technology.",
+      "tags": ["Web Development", "Firebase", "Real-Time Database"],
+      "image": {
+        "src": "../../images/game over.png",
+        "alt": "The Digital Builders",
+        "linkTo": "https://digitalbuilders757.com/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://pallet-dfcd8.web.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Web Application",
       "title": "Pallet Management System",
       "description": "A modern, intuitive web-based application for efficient management of pallet spaces in warehouses or logistics centers. Utilizes Firebase Realtime Database for dynamic, real-time data handling.",
@@ -20,7 +38,7 @@
     }
     , {
       "visible": true,
-      "category": "Web Development Example",
+      "category": "Web Development",
       "title": "Just Another Carpenter",
       "description": "We are Just Another Carpenter – a dedicated team of builders, fixers, and creators.",
       "tags": ["Web Development", "Social Media Growth"],
