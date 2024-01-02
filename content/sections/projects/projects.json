@@ -75,23 +75,6 @@
     
     {
       "visible": true,
-      "category": "Family Reunite Network",
-      "title": "Family Reunite Network!",
-      "description": "We love families, it is our mission to help keep them together!.",
-      "tags": ["Immigration Laws", "Family Network"],
-      "image": {
-        "src": "../../images/FRN.png",
-        "alt": "Marketing Agency",
-        "linkTo": "https://familyreunitenetwork.com/"
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://familyreunitenetwork.com/"
-        }
-      ]
-    },{
-      "visible": true,
       "category": "Join our Meet Up!",
       "title": "The Digital Builders 757!",
       "description": "I founded this group with the aim of creating a supportive community where anyone, regardless of their background or prior experience, can learn the art of coding. Together, we'll navigate the exciting realms of web development, unraveling the intricacies of HTML, CSS, and JavaScript",
