@@ -1,7 +1,7 @@
 ---
 title: "How To Break Into Tech With Coding? A Practical Guide"
 description: "A guide to help you start your journey into tech through coding, overcoming challenges, and building a thriving career."
-date: "2023-11-19"
+date: "2024-06-19"
 banner:
   src: "../../images/blog.webp"
   alt: "Breaking Into Tech"
