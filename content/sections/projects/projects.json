@@ -39,19 +39,21 @@
     , {
       "visible": true,
       "category": "Web Development",
-      "title": "Just Another Carpenter",
-      "description": "We are Just Another Carpenter – a dedicated team of builders, fixers, and creators.",
+      "title": "Black Theatre United",
+      "description": "Was members of the Black theatre community, we stand together to help protect Black people, Black theatre, and Black lives of all shapes and orientations in communities across the country.",
       "tags": ["Web Development", "Social Media Growth"],
       "image": {
-        "src": "../../images/just.webp",
-        "alt": "Construction Company",
-        "linkTo": "https://justanothercarpenter.com/"
+        "src": "../../images/btulogo.jpg",
+        "alt": "Theater Company",
+        "linkTo": "https://blacktheatreunited.com/"
       },
+
       "links": [
         {
           "type": "external",
-          "url": "https://justanothercarpenter.com/"
+          "url": "https://blacktheatreunited.com/"
         }
+
       ]
     },
     {
@@ -69,6 +71,24 @@
         {
           "type": "external",
           "url": "https://www.eileenbrewer.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Web Development",
+      "title": "E&T Cash Home Offers",
+      "description": "A real estate solutions and investment firm specializing in helping homeowners quickly sell burdensome houses. The platform offers fair cash offers with no realtors, commissions, or hidden fees, allowing homeowners to sell their properties as-is.",
+      "tags": ["Web Development", "Real Estate", "Business Solutions"],
+      "image": {
+        "src": "../../images/etlogo.jpg",
+        "alt": "E&T Consulting Website",
+        "linkTo": "https://www.etcashhomeoffers.com/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.etcashhomeoffers.com/"
         }
       ]
     }

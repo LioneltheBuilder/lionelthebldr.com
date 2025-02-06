@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/profile.jpg"
+imageSrc: "../../images/lionel.jpg"
 imageAlt: "Cool image of Lionel the Builder"
 ---
 
