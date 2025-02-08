@@ -19,6 +19,12 @@ I'm all about creating smooth, user-friendly applications and websites. From the
 - **Database Management:** SQL and NoSQL databases, including MongoDB and PostgreSQL – ensuring efficient data handling and storage.
 - **Additional Tools:** Git for version control, deploying applications via Vercel and Heroku.
 
+## 📺 YouTube Channel
+
+I also share my journey and knowledge on my [YouTube channel](https://www.youtube.com/@lionelthebuilder), where I help aspiring developers transition into tech through practical tutorials and real-world experiences. From truck driving to coding, I'm here to show you that anything is possible with dedication and the right guidance!
+
+[Subscribe to Lionel The Builder →](https://www.youtube.com/@lionelthebuilder)
+
 My journey into web development has been driven by a desire to transform complex problems into elegant digital solutions. Always eager to learn and adapt, I stay ahead of the curve in the fast-paced tech world.
 
 ### Skills

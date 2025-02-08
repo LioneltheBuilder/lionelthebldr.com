@@ -57,6 +57,13 @@
         "src": "../../images/high-voltage.png",
         "alt": ""
       }
+    },
+    {
+      "label": "YouTube Creator",
+      "image": {
+        "src": "../../images/youtube.png",
+        "alt": "YouTube Channel"
+      }
     }
   ],
   "button": {
