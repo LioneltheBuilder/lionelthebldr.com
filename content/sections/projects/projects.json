@@ -2,6 +2,42 @@
   "projects": [
     {
       "visible": true,
+      "category": "Climate Tech",
+      "title": "elpowr.ai - Edenic Energy",
+      "description": "A Climate Tech platform utilizing AI-driven predictive building management to optimize energy efficiency. elpowr.ai helps property owners improve building sustainability by analyzing energy consumption, market data, and financial incentives to maximize energy savings.",
+      "tags": ["Climate Tech", "AI", "Web Development", "Energy Efficiency"],
+      "image": {
+        "src": "../../images/elpowr.png",
+        "alt": "elpowr.ai - AI-driven Building Management",
+        "linkTo": "https://elpowr.ai/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://elpowr.ai/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Event & Community",
+      "title": "The Black-athon - Blhackathon.dev",
+      "description": "A hackathon and pitch competition designed to empower Black tech innovators, creatives, and developers. The event fosters collaboration, networking, and education while showcasing diverse talent in the tech industry.",
+      "tags": ["Hackathon", "Tech Events", "Diversity in Tech", "Community"],
+      "image": {
+        "src": "../../images/blhackathon.png",
+        "alt": "Blhackathon.dev - The Black-athon Hackathon",
+        "linkTo": "https://blhackathon.dev/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://blhackathon.dev/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Online Coding Community",
       "title": "The Digital Builders 757!",
       "description": "As the founder of The Digital Builders 757, I spearhead an ambitious initiative aimed at democratizing technology education and fostering a vibrant coding community in the Hampton Roads area. Originating from my personal journey of self-taught coding that led me from truck driving to a successful career in software engineering, The Digital Builders 757 is a testament to the transformative power of technology.",
